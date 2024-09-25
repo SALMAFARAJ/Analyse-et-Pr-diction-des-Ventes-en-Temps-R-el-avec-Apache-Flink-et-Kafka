@@ -1,10 +1,5 @@
 Projet BIGDATA - Analyse et Prévision des Ventes
 
-Membres du Groupe :
-Salma Faraj
-Salwa Faraj
-Rabab Razik
-Wissal Ryad
 
 Structure du Projet :
 1. Dossier flinkCom
